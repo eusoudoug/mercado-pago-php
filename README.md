@@ -12,7 +12,7 @@ A intenção desse projeto é para validar o uso de cartão de crédito via chec
 
 ### Instalação:
 
-1. ```composer require eusoudoug/mercado-pago-php``` 
+1. ```composer require douglasmaia/mercado-pago``` 
 
 ### Exemplos de uso:
 Você poderá encontrar o caso de uso na pasta ```examples/index.php```  
