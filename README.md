@@ -2,7 +2,7 @@
 Package desenvolvida durante o curso de Análise e desenvolvimento de sistemas da Faculdade Impacta.  
 A intenção desse projeto é para validar o uso de cartão de crédito via checkout transparente do Mercado Pago.  
 
-**Atenção**: Esse projeto não foi testado em nenhum projeto produtivo. Porém Pull Requests são bem vindos.
+**Atenção**: Esse código não foi testado em nenhum projeto produtivo. Porém Pull Requests são bem vindos.
 
 
 ### Requerimentos:
